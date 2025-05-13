@@ -1,6 +1,6 @@
 # 🏠💼 Home Enterprise Lab Environment
 
-> ⚙️ A long-term cybersecurity infrastructure project designed to replicate a real-world enterprise network for hands-on learning, security testing, and automation.
+> ⚙️ A personal enterprise-grade lab designed to replicate a real-world IT environment for hands-on learning, security testing, and automation. While cybersecurity is a primary focus, this long-term project also supports deep exploration of systems administration, networking, scripting, and infrastructure management. The lab serves as a platform for end-to-end experimentation across blue team operations and broader IT workflows.
 
 This project represents a personal initiative to build a live enterprise-grade lab environment using both physical and virtual systems. The goal is to simulate blue team operations, implement core IT infrastructure, automate workflows, and experiment with adversary emulation in a safe, controlled setting.
 
