@@ -1,4 +1,7 @@
-# 🏠💼 Home Enterprise Lab Environment
+![image](https://github.com/user-attachments/assets/782ead98-b6af-4e58-8bee-3691e46a8456)
+
+
+# 🏠💼 The Cyber Chamber
 
 > ⚙️ A personal enterprise-grade lab designed to replicate a real-world IT environment for hands-on learning, security testing, and automation. While cybersecurity is a primary focus, this long-term project also supports deep exploration of systems administration, networking, scripting, and infrastructure management. The lab serves as a platform for end-to-end experimentation across blue team operations and broader IT workflows.
 
